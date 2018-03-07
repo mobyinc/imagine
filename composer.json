@@ -1,6 +1,6 @@
 {
     "name": "pixelandtonic/imagine",
-    "description": "Image processing for PHP 5.3",
+    "description": "Image processing for PHP 5.3 updated to remove imagick hack",
     "keywords": [
         "image manipulation",
         "image processing",
